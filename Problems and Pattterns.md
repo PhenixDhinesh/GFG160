@@ -2,6 +2,10 @@
 
 ## Two Pointers
 *   `Array/move_all_zeros_to_end.py` — **Fast/Slow Pointers** (for in-place segregation)
+*   `Array/reverse_array.py` — **Opposite Ends Pointers** (swap from start and end, moving inwards)
 
 ## Array Traversal
 *   `Array/largest_second.py` — **Single Pass** (tracking two variables)
+
+## Array Manipulation/Reversal
+*   `Array/rotate_array_by_d.py` — **Reversal Algorithm** (reverse parts, then reverse all)
