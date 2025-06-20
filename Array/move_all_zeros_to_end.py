@@ -19,9 +19,9 @@ class Solution:
 
     # MINE
     # def pushZerosToEnd(self, arr:list):
-        """
-        got stuck at time complexity
-        """
+    #     """
+    #     got stuck at time complexity
+    #     """
 
     #     length = len(arr)
     #     i = 0
