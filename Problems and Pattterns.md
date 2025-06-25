@@ -20,6 +20,10 @@
 * **My Pattern:** Tracked peaks and valleys with multiple condition checks
 * **How I Should’ve Thought:** Just track min-so-far and compute max profit at each step
 
+### Array/Array/min_difference_btw_towers_||.py (Partition-Based Greedy)
+* **My Pattern:** Tried edge-based greedy and assumed O(n), missed partition logic
+* **How I Should’ve Thought:** Sort array, then for each index `i`, apply `+k` to left, `-k` to right; track min/max using boundary elements only (i.e., partition-based greedy)
+
 ---
 
 ## 🧭 Two Pointers
